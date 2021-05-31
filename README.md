@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hello World 
+<h1 align="center">WEB DEVELOPER FULL STACK
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h2></h1>
@@ -10,14 +10,14 @@
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/lunox.code/">
+<a href="https://www.instagram.com/joseangel4045/">
   <img align="center" 
        alt="Lunox's Instagram" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
-<a href="https://www.linkedin.com/in/lunox/">
+<a href="www.linkedin.com/in/jose-angel-alvarez-filippo">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
