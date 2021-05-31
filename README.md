@@ -24,7 +24,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
   
-<a href="jfilippo04@gmail.com">
+<a href="mailto:jfilippo04@gmail.com">
   <img align="center" 
        alt="Gmail" 
        width="22px" 
