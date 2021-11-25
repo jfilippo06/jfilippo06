@@ -58,7 +58,6 @@
   <code><img height="40" src="https://cdn0.iconfinder.com/data/icons/logos-21/40/Visualstudio-128.png"></code>
   <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/sublime-text-3-128.png"></code>
   <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-128.png"></code>
-  <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png"></code>
   <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/document-file-outline/64/File_Document_Doc_Folder_JSON-128.png"></code>
   <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-128.png"></code>
    <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-128.png"></code>
