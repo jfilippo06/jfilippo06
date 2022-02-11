@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">WEB DEVELOPER FULL STACK
+<h1 align="center">BACK END DEVELOPER PYTHON
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h1>
