@@ -10,12 +10,6 @@
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/joseangel4045/">
-  <img align="center" 
-       alt="Lunox's Instagram" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-  </a>
   
 <a href="www.linkedin.com/in/jose-angel-alvarez-filippo">
   <img align="center" 
