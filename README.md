@@ -9,7 +9,7 @@
   <!-- Social Network -->
 <h1 align="center">
   
-<a href="www.linkedin.com/in/jose-angel-alvarez-filippo">
+<a href="https://www.linkedin.com/in/jose-angel-alvarez-filippo">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
