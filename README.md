@@ -33,13 +33,12 @@
 <!-- coding Skills -->
 <p><H3 align="center"><strong> Coding Skills: 💻 </strong></p>
   <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"></code>
-  <code><img height="40" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/java-script-64.png"></code>
+  <code><img height="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></code>
+  <code><img height="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"></code>
+  <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png"></code>
   <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/50-file-types/125/JSON-64.png"></code>
   <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-64.png"></code>
   <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-64.png"></code>
   <code><img height="40" src="https://cdn0.iconfinder.com/data/icons/file-format-database-j-glyph-2/64/database_file_document-56-64.png"></code>
   <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-64.png"></code>
   <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jest-64.png"></code>
-  <code><img height="40" src=""></code>
-  <code><img height="40" src=""></code>
-  <code><img height="40" src=""></code>
