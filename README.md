@@ -17,14 +17,12 @@ Framewors:
 
 Tecnologias y herramientas:
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
 
 IDE:
 
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 
+Otros:
 
-<img src="">
-<img src="">
-
-
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> <img src="https://img.icons8.com/?size=48&id=108784&format=png">
