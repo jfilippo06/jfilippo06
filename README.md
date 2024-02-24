@@ -1,6 +1,7 @@
 Hola 👋, soy Jose Angel Alvarez Filippo
 
-Back End Developer
+Back End Developer </br>
+LinkedIn: https://www.linkedin.com/in/jose-angel-alvarez-filippo/
 
 Lenguajes de programación:
 
@@ -10,10 +11,20 @@ Bases de datos:
 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
 
-Framemorws:
+Framewors:
 
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+
+Tecnologias y herramientas:
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg">
+
+IDE:
+
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
+
+
 <img src="">
-
+<img src="">
 
 
