@@ -6,6 +6,15 @@
 
 ---
 
+### 🚀 Proyectos Destacados  
+
+**[Clasificados 180](https://play.google.com/store/apps/details?id=com.clasificados180.anuncios)**  
+[![App Store](https://img.shields.io/badge/App_Store-Discover-black?style=flat&logo=app-store)](https://apps.apple.com/ve/app/clasificados-180/id6746450811)  
+[![Play Store](https://img.shields.io/badge/Google_Play-Get_App-green?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.clasificados180.anuncios)  
+*App multiplataforma desarrollada con Flutter, integrando Firebase y APIs personalizadas.*  
+
+---
+
 ### 🛠️ Stack Principal  
 
 **Lenguajes y Frameworks:**  
@@ -20,18 +29,9 @@
 
 ---
 
-### 🚀 Proyectos Destacados  
-
-**[Clasificados 180](https://play.google.com/store/apps/details?id=com.clasificados180.anuncios)**  
-[![App Store](https://img.shields.io/badge/App_Store-Discover-black?style=flat&logo=app-store)](https://apps.apple.com/ve/app/clasificados-180/id6746450811)  
-[![Play Store](https://img.shields.io/badge/Google_Play-Get_App-green?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.clasificados180.anuncios)  
-*App multiplataforma desarrollada con Flutter, integrando Firebase y APIs personalizadas.*  
-
----
-
 ### 🌱 Actualmente Explorando  
 - **Flutter + Web3** (Blockchain/Smart Contracts)  
 - **IA Generativa** para experiencias móviles  
 - **Arquitecturas limpias** (BLoC, Riverpod)  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfilippo06&show_icons=true&theme=radical)](https://github.com/tuusuario)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfilippo06&show_icons=true&theme=radical)](https://github.com/jfilippo06)  
