@@ -34,4 +34,4 @@
 - **IA Generativa** para experiencias móviles  
 - **Arquitecturas limpias** (BLoC, Riverpod)  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)](https://github.com/tuusuario)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfilippo06&show_icons=true&theme=radical)](https://github.com/tuusuario)  
