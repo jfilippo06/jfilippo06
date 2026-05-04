@@ -1,6 +1,6 @@
 # Hola 👋, soy Jose Angel Alvarez Filippo  
 
-**Flutter Developer | Backend Skills**  
+**Full-Stack Mobile & Web Developer**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-angel-alvarez-filippo/)  
 *"Transformando ideas en apps multiplataforma con Flutter, respaldado por experiencia en backend."*  
 
@@ -18,20 +18,13 @@
 ### 🛠️ Stack Principal  
 
 **Lenguajes y Frameworks:**  
-<img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="40"/> <img src="https://img.icons8.com/color/48/dart.png" alt="Dart" width="40"/>  
-<img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/> <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40"/>  
+<img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="40"/> <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" width="40"/>
+<img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" width="40"/> <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue 3" width="40"/>
+<img src="https://img.icons8.com/color/48/dart.png" alt="Dart" width="40"/> <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40"/>
+<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/> <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40"/> 
 
 **Bases de Datos:**  
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase" height="30"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="30"/>  
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="30"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="30"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" height="30"/> 
 
 **Herramientas:**  
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="30"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" height="30"/>  
-
----
-
-### 🌱 Actualmente Explorando  
-- **Flutter + Web3** (Blockchain/Smart Contracts)  
-- **IA Generativa** para experiencias móviles  
-- **Arquitecturas limpias** (BLoC, Riverpod)  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfilippo06&show_icons=true&theme=radical)](https://github.com/jfilippo06)  
