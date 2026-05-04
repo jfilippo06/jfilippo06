@@ -2,7 +2,7 @@
 
 **Full-Stack Mobile & Web Developer**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-angel-alvarez-filippo/)  
-*"Transformando ideas en apps multiplataforma con Flutter, respaldado por experiencia en backend."*  
+*"Transformando ideas en aplicaciones web y móviles de alto rendimiento, con código limpio y enfoque en resultados."*  
 
 ---
 
