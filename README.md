@@ -1,30 +1,31 @@
-# Hola 👋, soy Jose Angel Alvarez Filippo  
+# Hola, soy Jose Alvarez Filippo 👋
+### Full-Stack Web & Mobile Developer · Next.js & Flutter
 
-**Full-Stack Mobile & Web Developer**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-angel-alvarez-filippo/)  
-*"Transformando ideas en aplicaciones web y móviles de alto rendimiento, con código limpio y enfoque en resultados."*  
+Construyo productos digitales orientados a resultados: landings de alto rendimiento, sistemas web y aplicaciones móviles nativas.
 
----
-
-### 🚀 Proyectos Destacados  
-
-**[Clasificados 180](https://play.google.com/store/apps/details?id=com.clasificados180.anuncios)**  
-[![App Store](https://img.shields.io/badge/App_Store-Discover-black?style=flat&logo=app-store)](https://apps.apple.com/ve/app/clasificados-180/id6746450811)  
-[![Play Store](https://img.shields.io/badge/Google_Play-Get_App-green?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.clasificados180.anuncios)  
-*App multiplataforma desarrollada con Flutter, integrando Firebase y APIs personalizadas.*  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+58%20412%203015399-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584123015399)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Alvarez%20Filippo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-angel-alvarez-filippo)
+[![Email](https://img.shields.io/badge/Email-jfilippo04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfilippo04@gmail.com)
 
 ---
 
-### 🛠️ Stack Principal  
+### 🚀 Proyectos en Producción
 
-**Lenguajes y Frameworks:**  
-<img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="40"/> <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" width="40"/>
-<img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" width="40"/> <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue 3" width="40"/>
-<img src="https://img.icons8.com/color/48/dart.png" alt="Dart" width="40"/> <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40"/>
-<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/> <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40"/> 
+* 🏢 **[Academia INOQUA](https://www.academiainoqua.com/)** — Plataforma SaaS B2B/B2C con Next.js, cursos interactivos, certificados automáticos y analítica de empresas.
+* 🌐 **[Inocuidad Sin Fronteras](https://inocuidadsinfronteras.com/)** — Landing page oficial para seminario internacional en Santa Cruz, Bolivia.
+* 📱 **[Clasificados 180](https://play.google.com/store/apps/details?id=com.clasificados180.anuncios&hl=es_VE)** — Aplicación móvil nativa en Flutter publicada en Google Play Store.
 
-**Bases de Datos:**  
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="30"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="30"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" height="30"/> 
+---
 
-**Herramientas:**  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="30"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" height="30"/>  
+### 🛠️ Stack Tecnológico
+
+* **Frontend & Web:** Next.js (App Router, Server Components), React, TypeScript, Tailwind CSS, HTML5/CSS3.
+* **Mobile:** Flutter, Dart, Material Design 3, REST APIs, Google Play Console.
+* **Backend & Servicios:** Node.js, Express, Firebase, Supabase, PostgreSQL, APIs REST.
+
+---
+
+### 💬 ¿Hablamos de un proyecto?
+Disponible para desarrollo de software a medida, aplicaciones móviles y sitios web.
+* 📩 **Email:** [jfilippo04@gmail.com](mailto:jfilippo04@gmail.com)
+* 📱 **WhatsApp:** [+58 412 3015399](https://wa.me/584123015399)
